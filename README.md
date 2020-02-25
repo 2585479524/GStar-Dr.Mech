@@ -1,6 +1,6 @@
 # Dr.Mech
 
-![image](https://github.com/2585479524/git_pic/ps2.png)
+![image](https://github.com/2585479524/GStar-Dr.Mech/blob/master/logo.jpg)
 
 游戏原型为俄罗斯方块，在此基础上进行创新
 
@@ -10,7 +10,7 @@
 
 （当然，游戏玩法是策划的功劳）
 
-# MVC架构
+## MVC架构
 
 由Controller层处理下落确认、消除判定、旋转处理，通知view改变
 
