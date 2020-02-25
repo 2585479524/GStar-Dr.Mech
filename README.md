@@ -8,6 +8,8 @@
   <img width="200" src="https://github.com/2585479524/git_pic/blob/master/GStar-Dr.Mech/start.jpg"/>
 </div>
 
+<hr>
+
 游戏原型为俄罗斯方块，在此基础上进行创新
 
 以消除为导向，灵感来源于口红机，中间的大方块会进行90度旋转，玩家通过点击发射方块
