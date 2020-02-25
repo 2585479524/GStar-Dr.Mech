@@ -1,6 +1,6 @@
 # Dr.Mech
 
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+![image](https://github.com/2585479524/git_pic/ps2.png)
 
 游戏原型为俄罗斯方块，在此基础上进行创新
 
