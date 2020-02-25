@@ -1,11 +1,11 @@
 # Dr.Mech
 
 <div align=center>
-  <img width="200" src="https://github.com/2585479524/git_pic/blob/master/GStar-Dr.Mech/logo.jpg"/>
+  <img width="200" src="https://github.com/2585479524/git_pic/blob/master/GStar-Dr.Mech/Logo.jpg"/>
   
-  <img width="200" src="https://github.com/2585479524/git_pic/blob/master/GStar-Dr.Mech/tips.jpg"/>
+  <img width="200" src="https://github.com/2585479524/git_pic/blob/master/GStar-Dr.Mech/Tips.jpg"/>
   
-  <img width="200" src="https://github.com/2585479524/git_pic/blob/master/GStar-Dr.Mech/start.jpg"/>
+  <img width="200" src="https://github.com/2585479524/git_pic/blob/master/GStar-Dr.Mech/Start.jpg"/>
 </div>
 
 <hr>
